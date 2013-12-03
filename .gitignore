@@ -1,0 +1,8 @@
+build/
+grequests.egg-info/
+*.pyc
+*.debhelper
+*.debhelper.log
+*.substvars
+debian/*/*
+debian/files
